@@ -1,0 +1,4 @@
+Resources used
+
+W3Schools - http://www.w3schools.com/cssref/pr_text_letter-spacing.asp
+Bootstrap - http://getbootstrap.com/css/
